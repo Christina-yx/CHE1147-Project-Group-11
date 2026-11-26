@@ -96,13 +96,13 @@ The same dependencies are listed in `pyproject.toml`.
 
 ## Data
 
-The data (~4.5 GB) is not included in this repository. Download `MATR.zip` and `Life labels.zip` from the BatteryLife Zenodo record. See [`data/README.md`](data/README.md) for links and the expected folder layout.
+The data (~4.5 GB) is not included in this repository. The exact files we used (`MATR.zip` and `Life labels.zip`) are shared on Google Drive: https://drive.google.com/drive/folders/1TNz7eRyQK8LhgMinQf1B7XcOt19_b6eg?usp=sharing. They come from the BatteryLife Zenodo record. See [`data/README.md`](data/README.md) for download instructions and the expected folder layout.
 
 ## How to run
 
 **In Google Colab**
 
-1. Upload `MATR.zip` and `Life labels.zip` to the Google Drive folder `MyDrive/CHE1147/`.
+1. Put `MATR.zip` and `Life labels.zip` in the Google Drive folder `MyDrive/CHE1147/` (easiest: open the shared Drive link above and add a shortcut of the `CHE1147` folder to My Drive; see `data/README.md`).
 2. Open `notebooks/battery_cycle_life_prediction.ipynb` in Colab (File → Upload notebook, or File → Open notebook → GitHub).
 3. Keep `USE_COLAB = True` in Section 1.2.
 4. Click **Runtime → Run all**. The first run unzips the data, which takes a few minutes. Allow access to Google Drive when asked.
