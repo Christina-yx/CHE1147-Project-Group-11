@@ -18,7 +18,6 @@ Using this copy guarantees the same data as in our report.
 We use the MATR dataset (Severson et al., 2019; Attia et al., 2020) in the standardized format released by **BatteryLife** (Tan et al., KDD 2025). The same two files can be downloaded from the BatteryLife Zenodo record:
 
 - BatteryLife processed data (Zenodo): https://zenodo.org/records/14969822 (several versions exist; for exact reproduction use the Google Drive copy above)
-- BatteryLife code repository: https://github.com/Ruifeng-Tan/BatteryLife
 - Original MATR data: https://data.matr.io/1/projects/5c48dd2bc625d700019f3204
 
 ## Expected layout for a local run
