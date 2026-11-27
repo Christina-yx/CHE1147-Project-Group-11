@@ -121,6 +121,9 @@ Training, hyperparameter tuning and evaluation all run inside the notebook; no s
 
 ## References
 
-- Severson, K. A. et al. Data-driven prediction of battery cycle life before capacity degradation. *Nature Energy* 4, 383–391 (2019).
-- Attia, P. M. et al. Closed-loop optimization of fast-charging protocols for batteries with machine learning. *Nature* 578, 397–402 (2020).
-- Tan, R. et al. BatteryLife: A Comprehensive Dataset and Benchmark for Battery Life Prediction. *KDD 2025*. https://github.com/Ruifeng-Tan/BatteryLife
+- S. E. J. O’Kane et al., “Lithium-ion battery degradation: How to model it,” Phys. Chem. Chem. Phys., vol. 24, no. 13, 
+pp. 7909–7922, 2022, doi: 10.1039/D2CP00417H.  
+- K. A. Severson et al., “Data-driven prediction of battery cycle life before capacity degradation,” Nat. Energy, vol. 4, 
+no. 5, pp. 383-391, 2019, doi: 10.1038/s41560-019-0356-8.  
+- Battery-Life, “BatteryLife_Processed,” Hugging Face. Accessed: Oct. 22, 2026. [Online]. Available: 
+https://huggingface.co/datasets/Battery-Life/BatteryLife_Processed 
